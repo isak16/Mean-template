@@ -1,0 +1,28 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "csx": "^8.2.1",
+    "express": "^4.15.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-live-server": "^0.0.30",
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "mongodb": "^2.2.25",
+    "gulp-sass": "^3.1.0",
+    "mongoose": "^4.9.1",
+    "react": "^15.4.2",
+    "typestyle": "^1.2.1",
+    "radium": "^0.18.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
